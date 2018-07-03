@@ -34,7 +34,7 @@ Selected Work
 Other Work
 ================
 
-- _"Data Analytics Service Composition and Deployment on Edge Devices,"_ in ACM SIGCOMM 2018 Workshop on Big Data Analytics and Machine Learning for Data Communication Networks (Big-DAMA), 2018. {\href{https://arxiv.org/abs/1805.05995{[link]
+- _"Data Analytics Service Composition and Deployment on Edge Devices,"_ in ACM SIGCOMM 2018 Workshop on Big Data Analytics and Machine Learning for Data Communication Networks (Big-DAMA), 2018.
 
 - _"Data Analytics Service Composition and Deployment on IoT Devices,"_ in ACM Open IoT Day, 2018.
 
