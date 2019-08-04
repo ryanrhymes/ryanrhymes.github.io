@@ -90,4 +90,4 @@ Other Work
 
 
 
-**NOTE**: the :green:`*$*` sign at the end of entries indicate I serve as the project initiator and coordinator in the work.
+**NOTE**: the *$* sign at the end of an entry indicates that I serve as the project initiator and coordinator in the work.
