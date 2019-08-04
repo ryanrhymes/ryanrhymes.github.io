@@ -7,6 +7,10 @@ permalink: /publicity/
 Talks
 ================
 
+- "Building Agile Edge Analytics", Reason Conf'19, Vienna, Austria, 2019. [{link}](https://www.reason-conf.com/workshops/)
+
+- "Probabilistic Synchronous Parallel Machines", Ericsson, Espoo HQ, Finland, 2018.
+
 - "The Design of Functional Numerical Software", Alan Turing Institute, London, UK, 2018. [{link}](https://www.turing.ac.uk/events/design-functional-numerical-software/) [{video}](https://youtu.be/EbETMvEgvHE)
 
 - "Type-Safe High-Performance Scientific Computing", Bloomberg, London HQ, UK, 2017.
