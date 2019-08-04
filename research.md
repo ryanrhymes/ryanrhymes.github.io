@@ -36,7 +36,7 @@ Other Work
 
 - _"Executing Owl Computation on GPU and TPU,"_ in [OCaml 2019](https://icfp19.sigplan.org/home/ocaml-2019) co-located with ICFP'19, Berlin, Germany, 2019. *$*
 
-- _"OwlDE: Making ODEs First-class Owl Citizens,"_ in [OCaml 2019](https://icfp19.sigplan.org/home/ocaml-2019) co-located with ICFP'19, Berlin, Germany, 2019. *
+- _"OwlDE: Making ODEs First-class Owl Citizens,"_ in [OCaml 2019](https://icfp19.sigplan.org/home/ocaml-2019) co-located with ICFP'19, Berlin, Germany, 2019. ***
 
 - _"Data Analytics Service Composition and Deployment on Edge Devices,"_ in ACM SIGCOMM 2018 Workshop on Big Data Analytics and Machine Learning for Data Communication Networks (Big-DAMA), 2018.
 
@@ -89,4 +89,5 @@ Other Work
 - _"Real-world Sybil Attacks in BitTorrent Mainline DHT,"_ in the Proceedings of IEEE Globecom. IEEE, Vol., No., pp.826-832. Dec. 3-7 2012.
 
 
-**NOTE**: the entries end with
+
+**NOTE**: *** at the end of entries indicate I serve as the project initiator and coordinator in the work.
