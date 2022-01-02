@@ -7,6 +7,8 @@ permalink: /research/
 Selected Work
 ================
 
+- _"Federated Learning with Heterogeneity-Aware Probabilistic Synchronous Parallel on Edge,"_ in IEEE Transactions on Services Computing (TSC), 2021.
+
 - _"Understanding Scoped-Flooding for Content Discovery and Caching in Content Networks,"_ in IEEE Journal on Selected Areas in Communications (JSAC), June. 2018.
 
 - _"Milking the Cache Cow with Fairness in Mind,"_ in IEEE/ACM Transactions on Networking (ToN), ACM/IEEE, 2017.
