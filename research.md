@@ -4,7 +4,15 @@ title: Research
 permalink: /research/
 ---
 
-Selected Work
+Books
+================
+
+- [OCaml Scientific Computing](https://link.springer.com/book/9783030976446), 2022, published by Springer Nature.
+
+- [Architecture of Numerical System](https://ocaml.xyz), expected to be published in 2023 by Springer Apress.
+
+
+Selected Papers
 ================
 
 - _"Federated Learning with Heterogeneity-Aware Probabilistic Synchronous Parallel on Edge,"_ in IEEE Transactions on Services Computing (TSC), 2021.
@@ -33,7 +41,7 @@ Selected Work
 
 
 
-Other Work
+Other Papers
 ================
 
 - _"Executing Owl Computation on GPU and TPU,"_ in [OCaml 2019](https://icfp19.sigplan.org/home/ocaml-2019) co-located with ICFP'19, Berlin, Germany, 2019. *$*

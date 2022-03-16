@@ -7,6 +7,8 @@ permalink: /publicity/
 Talks
 ================
 
+- "Interview: OCaml Scientific Computing – Out Now", 2022. [{link}](https://ikva.ai/ocaml-scientific-computing-out-now/)
+
 - "Building Agile Edge Analytics", Reason Conf'19, Vienna, Austria, 2019. [{link}](https://www.reason-conf.com/workshops/)
 
 - "Probabilistic Synchronous Parallel Machines", Ericsson, Espoo HQ, Finland, 2018.
