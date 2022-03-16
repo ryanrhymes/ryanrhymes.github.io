@@ -7,9 +7,9 @@ permalink: /research/
 Books
 ================
 
-- [OCaml Scientific Computing](https://link.springer.com/book/9783030976446), 2022, published by Springer Nature.
+- [<< OCaml Scientific Computing >>](https://link.springer.com/book/9783030976446), 2022, published by Springer Nature.
 
-- [Architecture of Numerical System](https://ocaml.xyz), expected to be published in 2023 by Springer Apress.
+- [<< Architecture of Numerical System >>](https://ocaml.xyz), expected to be published in 2023 by Springer Apress.
 
 
 Selected Papers
