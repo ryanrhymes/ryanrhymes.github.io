@@ -4,7 +4,7 @@ title: Publicity
 permalink: /publicity/
 ---
 
-- "The Hall of Fame Award, by Dept. of Computer Science and Technology, University of Cambridge, UK, 2022. [{link}](https://www.cst.cam.ac.uk/news/presenting-hall-fame-awards)
+- "The Hall of Fame Award", issued by Dept. of Computer Science and Technology, University of Cambridge, UK, 2022. [{link}](https://www.cst.cam.ac.uk/news/presenting-hall-fame-awards)
 
 - "Interview: OCaml Scientific Computing – Out Now", 2022. [{link}](https://ikva.ai/ocaml-scientific-computing-out-now/)
 
