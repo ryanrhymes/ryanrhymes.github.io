@@ -15,6 +15,8 @@ Books
 Selected Papers
 ================
 
+- _"Parallel and Memory-Efficient Distributed Edge Learning in B5G IoT Networks,"_ in IEEE Journal of Selected Topics in Signal Processing, 2023.
+
 - _"Federated Learning with Heterogeneity-Aware Probabilistic Synchronous Parallel on Edge,"_ in IEEE Transactions on Services Computing (TSC), 2021.
 
 - _"Understanding Scoped-Flooding for Content Discovery and Caching in Content Networks,"_ in IEEE Journal on Selected Areas in Communications (JSAC), June. 2018.
