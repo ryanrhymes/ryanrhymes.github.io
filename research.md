@@ -7,10 +7,11 @@ permalink: /research/
 Books
 ================
 
-- [<< OCaml Scientific Computing >>](https://link.springer.com/book/9783030976446), 2022, published by Springer Nature.
+- [<< Architecting Advanced Analytics Systems for Enterprise >>](https://ocaml.xyz), expected to be published in 2024 by Springer Nature.
 
 - [<< Architecture of Advanced Numerical Analysis Systems >>](https://link.springer.com/book/10.1007/978-1-4842-8853-5?sap-outbound-id=E28E6CA00CB94BE1CBC24C2F6F928D90C93E56EC), 2023, published by Springer Apress.
 
+- [<< OCaml Scientific Computing >>](https://link.springer.com/book/9783030976446), 2022, published by Springer Nature.
 
 Selected Papers
 ================
