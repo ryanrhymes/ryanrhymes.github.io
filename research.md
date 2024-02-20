@@ -7,7 +7,7 @@ permalink: /research/
 Books
 ================
 
-- [<< Strategic Blueprint for Enterprise Analytics >>](https://ocaml.xyz), expected to be published in 2024 by Springer Nature.
+- [<< Strategic Blueprint for Enterprise Analytics >>](https://link.springer.com/book/9783031558849), 2024, published by Springer Nature.
 
 - [<< Architecture of Advanced Numerical Analysis Systems >>](https://link.springer.com/book/10.1007/978-1-4842-8853-5?sap-outbound-id=E28E6CA00CB94BE1CBC24C2F6F928D90C93E56EC), 2023, published by Springer Apress.
 
